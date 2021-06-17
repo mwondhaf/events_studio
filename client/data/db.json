@@ -1,0 +1,45 @@
+{
+  "bookings": [],
+  "services": [
+    {
+      "name": "Party Coverage",
+      "id": 3
+    },
+    {
+      "name": "Holidays",
+      "id": 4
+    },
+    {
+      "name": "Events",
+      "id": 5
+    }
+  ],
+  "booked_services": [
+    {
+      "customer_name": "Customer 1",
+      "customer_phone": 55555,
+      "customer_address": "Kampala",
+      "name": "Camera",
+      "price": 1000,
+      "id": 1
+    }
+  ],
+  "products": [
+    {
+      "name": "Camera",
+      "price": 1000
+    },
+    {
+      "name": "Tripod",
+      "price": 150
+    },
+    {
+      "name": "Jib",
+      "price": 2000
+    },
+    {
+      "name": "Speed Lights",
+      "price": 5000
+    }
+  ]
+}

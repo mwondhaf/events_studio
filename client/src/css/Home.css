@@ -1,0 +1,16 @@
+.container {
+  height: 90vh;
+  scroll-snap-type: y mandatory;
+  overflow-y: scroll;
+  overflow-x: hidden;
+  width: "100%";
+}
+
+section {
+  height: 90vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex: 1;
+  scroll-snap-align: start;
+}
